@@ -78,7 +78,7 @@ const AIPRSummarizer = () => {
   return (
     <Stack hasGutter className="pf-v6-u-w-100">
       <StackItem>
-        <Title headingLevel="h1">AI PR-to-Tasks Summarizer</Title>
+        <Title headingLevel="h1">PR Insights</Title>
         </StackItem>
       <StackItem isFilled>
         <Card>
