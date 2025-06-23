@@ -57,6 +57,9 @@ This helps teams quickly understand the context and scope of pull requests durin
 > https://github.com/freeipa/freeipa-webui/pull/731
 
 ### Output
-> A unit test was added for the `DataSpinner` component, which was also exposed via an index file to support testing, and the project version was bumped. (https://github.com/freeipa/freeipa-webui/pull/735)
-> The pull request fixed intermittent "as whom" test failures by narrowing the CSS selector for dual list items to prevent context collisions and flakiness (https://github.com/freeipa/freeipa-webui/pull/733).
-> This pull request bumped the project version from 0.1.4 to 0.1.5 in package.json. (https://github.com/freeipa/freeipa-webui/pull/731)
+> - A unit test was added for the `DataSpinner` component, which was also exposed via an index file to support testing, and the project version was bumped. (https://github.com/freeipa/freeipa-webui/pull/735)
+> - The pull request fixed intermittent "as whom" test failures by narrowing the CSS selector for dual list items to prevent context collisions and flakiness (https://github.com/freeipa/freeipa-webui/pull/733).
+> - This pull request bumped the project version from 0.1.4 to 0.1.5 in package.json. (https://github.com/freeipa/freeipa-webui/pull/731)
+
+## 📄 License
+MIT License
