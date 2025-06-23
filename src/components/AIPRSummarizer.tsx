@@ -78,7 +78,7 @@ const AIPRSummarizer = () => {
   return (
     <Stack hasGutter className="pf-v6-u-w-100">
       <StackItem>
-        <Title headingLevel="h1">PR Insights</Title>
+        <Title headingLevel="h1">PR Insight</Title>
         </StackItem>
       <StackItem isFilled>
         <Card>
