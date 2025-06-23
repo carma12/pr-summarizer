@@ -2,6 +2,8 @@
 
 **PR Insight** is a web application built with **React** and **TypeScript** that leverages the **GitHub API** and **Gemini AI** to generate clear, concise summaries of GitHub Pull Requests.
 
+![](src/assets/pr-insight-demo.gif)
+
 ## 🔍 Overview
 
 Given a list of GitHub Pull Requests, PR Insight:
